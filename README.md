@@ -7,3 +7,5 @@ Play Mindustry. It's cool.
 ## Usage
 
 Run `setup.sh`, then `main.py`
+
+Arguments: `python main.py [file]`
